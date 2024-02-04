@@ -1,0 +1,4 @@
+package blaster
+
+func main() {
+}
